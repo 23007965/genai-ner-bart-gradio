@@ -20,7 +20,10 @@ Create a helper function to send the input text to the Hugging Face NER model AP
 Develop a Gradio-based user interface that accepts text input, processes it using the NER model, and highlights the identified entities. Merge subword tokens where necessary to display complete entity names.
 
 ### PROGRAM:
-
+```
+Name : P PARTHIBAN
+Register number : 212223230145
+```
 ```python
 import os
 import io
